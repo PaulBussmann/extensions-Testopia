@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!C:\perl\bin\perl
 # -d:ptkdb
 # -*- Mode: perl; indent-tabs-mode: nil -*-
 #

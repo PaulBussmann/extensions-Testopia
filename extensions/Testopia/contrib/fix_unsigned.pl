@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!C:\perl\bin\perl
 print "Starting...\n";
 use strict;
 

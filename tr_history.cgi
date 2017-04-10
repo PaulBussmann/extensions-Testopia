@@ -1,4 +1,4 @@
-#!/usr/bin/perl -wT
+#!C:\perl\bin\perl
 
 use strict;
 
